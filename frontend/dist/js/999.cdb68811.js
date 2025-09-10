@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkschej"]=self["webpackChunkschej"]||[]).push([[999],{6999:function(e,t,c){c.r(t),c.d(t,{default:function(){return a}});var i=function(){var e=this,t=e._self._c;return t("iframe",{staticStyle:{width:"100%",height:"100%",position:"absolute",left:"0"},attrs:{src:"https://docs.google.com/document/d/1WfcSi7FkNACWsm31sUiIcgpqIWWJ0mMm7qqma_x0kIM/preview",frameborder:"0"}})},s=[],r={name:"PrivacyPolicy",metaInfo:{title:"Privacy Policy - Schej"}},l=r,n=c(1656),o=(0,n.A)(l,i,s,!1,null,null,null),a=o.exports}}]);
+//# sourceMappingURL=999.cdb68811.js.map

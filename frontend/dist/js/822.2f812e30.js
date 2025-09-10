@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkschej"]=self["webpackChunkschej"]||[]).push([[822],{4822:function(e,s,t){t.r(s),t.d(s,{default:function(){return h}});var n=function(){var e=this,s=e._self._c;return s("div",[s("h1",[e._v("Test")]),s("UpgradeDialog",{attrs:{value:!0}})],1)},o=[],c=t(1121),u={name:"Test",components:{UpgradeDialog:c.A},methods:{createCheckoutSession(){post("/stripe/create-checkout-session").then((e=>{console.log(e)}))}}},l=u,r=t(1656),a=(0,r.A)(l,n,o,!1,null,null,null),h=a.exports}}]);
+//# sourceMappingURL=822.2f812e30.js.map
